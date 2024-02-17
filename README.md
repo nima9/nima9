@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Nima's GitHub stats](https://github-readme-stats.vercel.app/api?username=nima9&show_icons=true&theme=radical)
+
 <!--
 **nima9/nima9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
