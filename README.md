@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on my personal site: [mohajeri.dev](https://mohajeri.dev) <br>
       "PS2 memory card screen" style theme, blog, showcase work experience and projects
   
-- 🌱 I’m currently learning Zig to make a MCU
+- 🌱 I’m currently learning Rust to code a MCU
 
 - 💼 Projects I have made:
     - [mithqal.app](https://mithqal.app) (Feb 2026): A sentence structured Gold and Silver calculator that converts Mithqáls to your desired currency
