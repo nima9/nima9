@@ -12,7 +12,7 @@
 
 - 📚 A tech stack that I love for most modern web development is Svelte 5, SvelteKit, Bun, Tailwind, Turso or Convex, and Cloudflare!
 - 💬 Ask me about anything tech, learning Korean and Japanese, custom mechanical keyboards, or any rabbit hole!
-- 📫 How to reach me: At my [LinkedIn](https://www.linkedin.com/in/nima9/)
+- 📫 How to reach me: At my [LinkedIn](https://www.linkedin.com/in/nima9/) or find my email at [mohajeri.dev](https:/mohajeri.dev)
 
 <!--
 **nima9/nima9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
